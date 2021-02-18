@@ -2,7 +2,7 @@
 
 Pour ce technique technique, nous proposons trois fichiers : 
 
-1. Un fichier "word" comportant une explication en ce qui concerne les détails sur le défi
+1. Un fichier "docs" comportant une explication en ce qui concerne les détails sur le défi
 
 2. Un fichier "CSV" comportant le jeu de données.
 
